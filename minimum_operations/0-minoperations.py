@@ -28,3 +28,4 @@ def minOperations(n):
         else:
             divisor += 1
     return operations
+    
